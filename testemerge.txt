@@ -1,6 +1,13 @@
+linha-1
 linha0
 linha10
+<<<<<<< HEAD
+=======
+linha50
+linha20
+>>>>>>> 49be000815cc3625901523c7b9b1228658097412
 linha30
 linha24
 linha20
 linha40
+linha0
