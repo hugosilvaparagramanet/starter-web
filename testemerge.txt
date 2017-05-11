@@ -1,4 +1,6 @@
+linha0
 linha10
-linha20
 linha30
+linha24
+linha20
 linha40
